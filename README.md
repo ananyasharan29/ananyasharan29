@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ananyasharan29
+- 👀 I’m interested in frontend and backend development
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 📫 How to reach me, here is my mail id: ananyasharan29@gmail.com
